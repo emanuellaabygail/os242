@@ -1,1 +1,4 @@
-Hello!
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
+ZCZC W00 10 L03 Github ralated
