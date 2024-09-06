@@ -17,12 +17,12 @@ ZCZC W01 20 L01 SCELE related
 ZCZC W01 10 L03 Github ralated
 ZCZC W01 100 L02 Attending class
 ZCZC W01 240 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 180 L11 Assignment #01
+ZCZC W01 180 L11 Assignment Week 01 #1
 ZCZC W01 60 L21 Trying something
-ZCZC W01 60 L12 Assignment #02
+ZCZC W01 60 L11 Assignment Week 01 #2
 ZCZC W01 100 L02 Attending class
 ZCZC W01 40 L01 Answering SCELE Forum
-ZCZC W01 30 L13 Assignment #03
-ZCZC W01 15 L14 Assignment #04
-ZCZC W01 15 L15 Assignment #05
+ZCZC W01 30 L11 Assignment Week 01 #3
+ZCZC W01 15 L11 Assignment Week 01 #4
+ZCZC W01 15 L11 Assignment Week 01 #5
 ZCZC W01 20 L05 QUIZ
