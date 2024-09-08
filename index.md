@@ -1,3 +1,3 @@
 - [My Log](TXT/mylog.txt)
 - [GitHub](https://github.com/emanuellaabygail/os242/)
-- [Links](links.md)
+- [Links](https://emanuellaabygail.github.io/os242/LINKS/)
