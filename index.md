@@ -1,3 +1,3 @@
-TIPS{:target="_blank"} --- LINKS{:target="_blank"} --- LOG{:target="_blank"} --- GitHub{:target="_blank"}
-
-
+- [My Log](TXT/mylog.txt)
+- [GitHub](https://github.com)
+- [Links](LINKS/)
