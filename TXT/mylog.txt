@@ -40,3 +40,17 @@ ZCZC W02 100 L12 Assignment Week 02 #7
 ZCZC W02 50 L03 Github Related
 ZCZC W02 50 L06 Studying and searching for references
 ZCZC W02 30 L01 PopQuiz
+
+ZCZC W03 10 L01 SCELE related (checking new assignment)
+ZCZC W03 100 L02 Attending class
+ZCZC W03 90 L32 YouTube: watching OS related videos
+ZCZC W03 90 L01 SCELE/Discord related
+ZCZC W03 60 L13 Update Debian Guest, demos W03 & backup keys
+ZCZC W03 120 L08 Doing OS related things with my friends
+ZCZC W03 30 L04 Adding links to Github Page
+ZCZC W03 100 L02 Attending class
+ZCZC W03 90 L01 Popquiz
+ZCZC W03 180 L13 Assignment Week 03 #1-4
+ZCZC W03 50 L06 Studying and searching for references
+ZCZC W03 40 L03 Github Related
+ZCZC W03 20 L41 Updating mylog.txt
