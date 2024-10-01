@@ -54,3 +54,22 @@ ZCZC W03 180 L13 Assignment Week 03 #1-4
 ZCZC W03 50 L06 Studying and searching for references
 ZCZC W03 40 L03 Github Related
 ZCZC W03 20 L41 Updating mylog.txt
+
+ZCZC W04 10 L01 SCELE related (checking new assignment)
+ZCZC W04 60 L14 Update demos, Debian Guest
+ZCZC W04 30 L14 Backup keys
+ZCZC W04 60 L14 Assignment script & compiling TLPI
+ZCZC W04 30 L05 Quiz
+ZCZC W04 120 L06 Reading Silberschatz
+ZCZC W04 100 L02 Attending class
+ZCZC W04 90 L01 Popquiz
+ZCZC W04 60 L64 Helping friends on W04 Popquiz
+ZCZC W04 50 L22 Trying linux scripting
+ZCZC W04 30 L05 Learning C
+ZCZC W04 50 L06 Studying and searching for references
+ZCZC W04 20 L41 Updating mylog.txt
+ZCZC W04 40 L03 Github Related
+ZCZC W04 30 L64 Helping friends on W04 Popquiz
+ZCZC W04 120 L32 Watching OS related videos on Youtube
+ZCZC W04 20 L41 Updating mylog.txt
+ZCZC W04 10 L43 Updating myrank.txt
