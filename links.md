@@ -31,3 +31,13 @@ permalink: /LINKS/
 - [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared): This video explains *scp command* used to transfer files between 2 computers.
 - [Basics of Virtual Memory by MIT](https://youtu.be/8yO2FBBfaB0?si=pRrgx5_KojdlE_8F): This video contains explanation about *virtual memory* by MIT.
 - [Secure Copy Protocol (SCP) in Linux: A Guide to File Transfer from Local to Remote Server](https://mazer.dev/en/linux/tips/copy-files-from-local-to-server-using-scp-ssh-linux/): This article explains how to use *SCP command* for copying files from a local machine to a remote server or vice versa.
+
+## Week 5
+- [Translation Look aside Buffer (TLB)](https://www.javatpoint.com/os-translation-look-aside-buffer): This article consists of explanation about TLB in *virtual memory*. 
+- [Inverted Page Table](https://www.javatpoint.com/os-inverted-page-table):  This article consists of explanation about *inverted page table* in *virtual memory*.
+- [Virtual Memory in OS](https://www.javatpoint.com/os-virtual-memory): This artical contains explanation about virtual memory in operating system.
+- [Difference between Paging and Segmentation](https://www.javatpoint.com/os-paging-vs-segmentation): This article contains explanation about the difference of paging and segmentation. This article explains the difference using table so the explanation is easy to understand.
+- [Commands to Check Memory Usage in Linux](https://phoenixnap.com/kb/linux-commands-check-memory-usage): This article contains tutorial of the commands used to check memory usage in Linux operating system.
+- [Basics of Virtual Memory](https://youtu.be/8yO2FBBfaB0?si=um1DuvlOIVSZphpG): This video explains about virtual memory in basic. It is interesting because the explanations is very technical and accompanied by illustrations so the material is easier to understand.
+- [Allocation of Frames in Operating System](https://www.geeksforgeeks.org/operating-system-allocation-frames/): This article explains about algorithms that can be used to do frame allocation. This article has a lot of illustrations so it easier for me to understand the material.
+- [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/): This article explains about memory allocations and management in operating system. It is interesting because is use a lot of illustrations and table, it also use a simple language so the student (me) is easier to understand.
