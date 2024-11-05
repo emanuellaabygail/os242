@@ -107,3 +107,19 @@ ZCZC W06 90 L01 Popquiz
 ZCZC W06 40 L03 Github Related
 ZCZC W06 20 L41 Updating mylog.txt
 ZCZC W06 10 L43 Updating myrank.txt
+
+ZCZC W07 10 L01 SCELE related (checking new assignment)
+ZCZC W07 60 L17 Update demos, Debian Guest
+ZCZC W07 30 L17 Backup keys
+ZCZC W07 100 L02 Attending class
+ZCZC W07 120 L08 Doing OS related things with my friends
+ZCZC W07 10 L41 Updating mylog.txt
+ZCZC W07 90 L17 Weekly Assignment
+ZCZC W07 30 L05 Quiz
+ZCZC W07 75 L01 Popquiz
+ZCZC W07 100 L02 Attending class
+ZCZC W07 50 L06 Studying and searching for references
+ZCZC W07 60 L06 Reading OS related materials
+ZCZC W07 40 L03 Github Related
+ZCZC W07 10 L43 Updating myrank.txt
+ZCZC W07 20 L41 Updating mylog.txt
