@@ -17,3 +17,6 @@ ZCZC W06 sopigoo
 ZCZC W07 agtyra
 ZCZC W07 deanitasekar
 ZCZC W07 secona
+ZCZC W08 deanitasekar
+ZCZC W08 thorbert-anson-shi
+ZCZC W08 Cyades
