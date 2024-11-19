@@ -75,3 +75,11 @@ permalink: /LINKS/
 - [Process Queues](https://www.javatpoint.com/os-process-queues): This article contains an explanation of the various queues in process scheduling. This article has pictures so it is easy to understand.
 - [How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315): This playlist contains an explanatory video about the book Linux From Scratch 12.0. These video tutorials are very helpful in understanding the contents of the book Linux From Scratch 12.0.
 - [What Is Linux LFS (Linux from Scratch)](https://www.alibabacloud.com/blog/what-is-linux-lfs-linux-from-scratch_600026): This link explains LFS project in general. If somebody is very unfamiliar with LFS, it is a good link to start.
+
+## Week 9
+- [Disk Management in Operating System](https://www.geeksforgeeks.org/disk-management-in-operating-system/): This article explains about disk management of the operating system that includes disk format, booting from disk, and bad block recovery. It is interesting because it explains the material in very detail and clearly way so it’s easy to understand.
+- [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/): This article provides a step-by-step guide to install LFS. The instructions are easy to understand.
+- [Kernotex's LFS](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3): The instructions provided by the previous article are easy to understand yet we might find ourselves wondering whether or not we have done it correctly. This youtube playlist by Kernotex help us ensure everything is right.
+- [RAID](https://www.javatpoint.com/what-is-raid): This website explained about RAID (Redundant Array of Independent Disks) technique of storing data, which includes levels of RAID and implementation of RAID.
+- [Symbolic Link or Symlink in Linux](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): This article explained about symbolic links in linux
+- [PERL](https://archive.flossmanuals.net/command-line/perl.html): a link related to perl since it’s installed in linux (lfs)
