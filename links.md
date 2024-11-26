@@ -83,3 +83,9 @@ permalink: /LINKS/
 - [RAID](https://www.javatpoint.com/what-is-raid): This website explained about RAID (Redundant Array of Independent Disks) technique of storing data, which includes levels of RAID and implementation of RAID.
 - [Symbolic Link or Symlink in Linux](https://www.freecodecamp.org/news/symlink-tutorial-in-linux-how-to-create-and-remove-a-symbolic-link/): This article explained about symbolic links in linux
 - [PERL](https://archive.flossmanuals.net/command-line/perl.html): a link related to perl since it’s installed in linux (lfs)
+
+## Week 10
+- [GPT](chatgpt.com): even though it doesn't alwas give an actual solution, chatGPT really helps me fix a lot of problem that I ran into during one semester of doing OS assignments
+- [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE): this video helps explain the basics of OS in context of I/O Structure
+- [LFS chapter 8](https://www.linuxfromscratch.org/lfs/view/11.0/chapter08/introduction.html): A step by step guide to install Linux From Scratch
+- [BIOS](https://www.techtarget.com/whatis/definition/BIOS-basic-input-output-system#:~:text=BIOS%20(basic%20input%2Foutput%20system)%20is%20the%20program%20a,%2C%20keyboard%2C%20mouse%20and%20printer.): This article explains basics of Input/Output System
